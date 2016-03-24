@@ -18,7 +18,7 @@ function ContactController() {
 		name: 'President Obama',
 		email: 'president@whitehouse.com',
 		phone: '75934988239',
-		username: 'obamaY0'
+		username: 'obama44'
 	}];
 }
 
